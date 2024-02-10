@@ -1,0 +1,6 @@
+[submodule "AMSI"]
+	path = AMSI
+	url = https://github.com/FranciscoSousa04/AMSI
+[submodule "RentAllMotorBike"]
+	path = RentAllMotorBike
+	url = https://github.com/FranciscoSousa04/RentAllMotorBike

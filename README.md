@@ -19,7 +19,7 @@ Este projeto é uma plataforma de aluguer de motociclos desenvolvida por Bruno L
 
 - **Base de Dados:** MySQL.
 
-- **Framework de Desenvolvimento Mobile (se aplicável):** AndroidStudio,Java.
+- **Framework de Desenvolvimento Mobile:** AndroidStudio,Java.
 
 ## Estado do Projeto:
 
